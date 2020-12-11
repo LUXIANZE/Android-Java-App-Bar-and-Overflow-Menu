@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android Java App Bar and Overflow Menu</string>
+    <string name="project_name">Android Java App Bar and Overflow Menu</string>
+    <string name="app_name">cafix</string>
 </resources>
