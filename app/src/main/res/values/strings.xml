@@ -1,4 +1,6 @@
 <resources>
     <string name="project_name">Android Java App Bar and Overflow Menu</string>
     <string name="app_name">cafix</string>
+    <string name="nav_button">Navigation</string>
+    <string name="action_chat">Chat</string>
 </resources>
