@@ -9,12 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".NavigationActivity"
+        <activity android:name=".WorkshopDetailsActivity"></activity>
+        <activity android:name=".ProfileActivity" />
+        <activity
+            android:name=".NavigationActivity"
             android:label="@string/nav_button"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value=".MainActivity" />
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
