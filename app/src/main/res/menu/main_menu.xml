@@ -2,14 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/option1"
-        android:title="Option 1"/>
+        android:title="Home"/>
     <item android:id="@+id/option2"
-        android:title="Option 2" />
-    <item
-        android:id="@+id/action_chat"
-        android:icon="@drawable/speech_bubble"
-        android:title= "@string/action_chat"
-        app:showAsAction="ifRoom"
-        />
-
+        android:title="Appointment" />
+    <item android:id="@+id/option3"
+        android:title="Setting"/>
+    <item android:id="@+id/option4"
+        android:title="About Us" />
 </menu>

@@ -55,4 +55,14 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
+
+    public void goToProfile(View view) {
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
+    }
+
+    public void goToWorkshopDetails(View view) {
+        Intent intent = new Intent(this, WorkshopDetailsActivity.class);
+        startActivity(intent);
+    }
 }

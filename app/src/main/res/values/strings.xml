@@ -3,4 +3,6 @@
     <string name="app_name">cafix</string>
     <string name="nav_button">Navigation</string>
     <string name="action_chat">Chat</string>
+    <string name="workshopDetails_button">workshop details</string>
+    <string name="profile_button">profile</string>
 </resources>
